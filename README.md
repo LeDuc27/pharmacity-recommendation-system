@@ -93,17 +93,6 @@ Vitamin C 500mg
 
 ---
 
-## 📊 Visualization
-
-### Product Category Distribution
-
-![Category Distribution](images/category_distribution.png)
-
-### Similarity Matrix Visualization
-
-![Similarity Matrix](images/similarity_matrix.png)
-
----
 
 ## 🛠 Technologies Used
 
