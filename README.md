@@ -115,7 +115,6 @@ pharmacity-recommendation-system/
 │
 ├── data/
 ├── notebooks/
-├── images/
 ├── report/
 ├── README.md
 ```
